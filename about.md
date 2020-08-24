@@ -28,3 +28,4 @@ Both projects were unfortunately dropped by their respective teams, but I have p
 Thanks for stopping by my portfolio!
 
 *PS: I am also open for commissions.*
+*Favicon made by [Freepik.com](Freepik.com)*
