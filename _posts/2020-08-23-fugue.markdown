@@ -1,0 +1,12 @@
+---
+title: "Fugue: Coming soon"
+layout: post
+date: 2020-08-23 00:00
+tag: projects
+author: specular
+projects: true
+category: project
+externalLink: false
+---
+
+Stay tuned for some of the stuff I did on Fugue!
